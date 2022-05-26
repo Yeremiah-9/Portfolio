@@ -3,10 +3,6 @@ let mileage = prompt("Enter your mileage")
 
 
 
-if milage>= 50,000 (ford || bmw) && milage>
-alert ("you need a new car")
-
-
 // You may need to google "javascript IF syntax"
 
 
