@@ -28,7 +28,7 @@ if (dayNum == 6) {
   alert ("Saturday is 6")
 }
 else {
-  alert ("day doesn't exist")
+  alert ("Invalid")
 }
 
 // You may need to google "javascript IF syntax"
