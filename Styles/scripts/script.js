@@ -9,7 +9,27 @@ let dayNum = prompt ("Enter the day number")
 if (dayNum == 0) {
   alert ("Sunday is 0")
 }
-
+else if (dayNum == 1) {
+  alert ("Monday is 1")
+}
+else if (dayNum == 2) {
+  alert ("Tuesday is 2")
+}
+else if (dayNum == 3) {
+  alert ("Wednesday is 3")
+}
+if (dayNum == 4) {
+  alert ("Thursday is 4")
+}
+else if (dayNum == 5) {
+  alert ("Friday is 5")
+}
+if (dayNum == 6) {
+  alert ("Saturday is 6")
+}
+else {
+  alert ("day doesn't exist")
+}
 
 // You may need to google "javascript IF syntax"
 
