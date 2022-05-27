@@ -2,17 +2,13 @@
 
 
 
-
-'use strict';
-
 // Write a day of week calculator - enter a day number (0 - 6) and display "Sunday is 0  - Saturday" is 6
 
 let dayNum = prompt ("Enter the day number")
 
-if (dayNum ...)
-
-
-else 
+if (dayNum == 0) {
+  alert ("Sunday is 0")
+}
 
 
 // You may need to google "javascript IF syntax"
