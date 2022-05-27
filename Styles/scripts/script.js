@@ -1,5 +1,4 @@
-let make = prompt("Enter your car make")
-let mileage = prompt("Enter your mileage")
+
 
 
 
