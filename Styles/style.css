@@ -50,21 +50,18 @@ section h2{
   color: white;
 }
 
-.home {
-  background: linear-gradient(to right top, #f46b45, #eea849);
-}
-.about {
-  background: linear-gradient(to right top, #005c97, #363795);
-}
-.projects {
-  background: linear-gradient(to right top, #e53935, #e35d5b);
-}
-.contact {
-  background: linear-gradient(to right top);
+
+/*div {
+  background-color: black;
+}*/
+
+body {
+  background-image: url(/Images/Djey4.jpeg);
+  background-repeat: no-repeat;
+  background-size:contain;
+  
 }
 
-.bubble {
-  position: absolute;
-  z-index: -2;
-  background: linear-gradient(to right top, #f46b45, #eea849);
+.video media {
+  
 }
